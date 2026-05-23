@@ -67,6 +67,10 @@ AI-powered healthcare prediction platform developed using Machine Learning and F
 
 🔗 Repository: https://github.com/ayusiparida/disease-prediction-system
 
+
+🚀 Live Demo: https://your-live-link.vercel.app
+
+
 ---
 
 # 🩸 Blood Group Detection System
